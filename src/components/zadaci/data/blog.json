@@ -93,14 +93,14 @@
       ],
       "version-history": [
         {
-          "count": 1,
+          "count": 2,
           "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/posts/680/revisions"
         }
       ],
       "predecessor-version": [
         {
-          "id": 682,
-          "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/posts/680/revisions/682"
+          "id": 768,
+          "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/posts/680/revisions/768"
         }
       ],
       "wp:featuredmedia": [
@@ -1041,217 +1041,6 @@
               "wp:post_type": [
                 {
                   "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/posts?categories=59"
-                }
-              ],
-              "curies": [
-                {
-                  "name": "wp",
-                  "href": "https://api.w.org/{rel}",
-                  "templated": true
-                }
-              ]
-            }
-          }
-        ],
-        []
-      ]
-    }
-  },
-  {
-    "id": 613,
-    "date": "2026-01-16T19:56:24",
-    "date_gmt": "2026-01-16T18:56:24",
-    "guid": {
-      "rendered": "https://front2.edukacija.online/backend/?p=613"
-    },
-    "modified": "2026-01-16T19:56:25",
-    "modified_gmt": "2026-01-16T18:56:25",
-    "slug": "lokacija",
-    "status": "publish",
-    "type": "post",
-    "link": "https://front2.edukacija.online/backend/novosti/lokacija/",
-    "title": {
-      "rendered": "Lokacija"
-    },
-    "content": {
-      "rendered": "\n\u003Cdiv class=\"wp-block-group alignfull is-content-justification-center\" style=\"margin-top:0;margin-bottom:0\"\u003E\u003Cdiv class=\"wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained\"\u003E\n\u003Cdiv style=\"height:var(--wp--preset--spacing--20)\" aria-hidden=\"true\" class=\"wp-block-spacer\"\u003E\u003C/div\u003E\n\n\n\n\u003Cdiv class=\"wp-block-group alignwide\"\u003E\u003Cdiv class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\"\u003E\n\u003Cdiv class=\"wp-block-columns alignwide are-vertically-aligned-top is-layout-flex wp-container-core-columns-is-layout-ac3ebc3b wp-block-columns-is-layout-flex\"\u003E\n\u003Cdiv class=\"wp-block-column is-vertically-aligned-top is-content-justification-left is-layout-constrained wp-container-core-column-is-layout-02d07192 wp-block-column-is-layout-constrained\"\u003E\n\u003Ch2 class=\"wp-block-heading\"\u003EPark vozača, Pila\u003C/h2\u003E\n\u003C/div\u003E\n\n\n\n\u003Cdiv class=\"wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:40%\"\u003E\n\u003Cp\u003ETakozvani Zagorski Beverly Hills mjesto je okupljanja auto entuzijasta i dom auto utrka mnogo godina unatrag. \u003C/p\u003E\n\n\n\n\u003Cp\u003EOve sezone Pila će biti i naša glavna adresa. \u003C/p\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\n\n\n\u003Cdiv style=\"height:var(--wp--preset--spacing--20)\" aria-hidden=\"true\" class=\"wp-block-spacer\"\u003E\u003C/div\u003E\n\u003C/div\u003E\u003C/div\u003E\n\n\n\n\u003Cdiv style=\"height:var(--wp--preset--spacing--20)\" aria-hidden=\"true\" class=\"wp-block-spacer\"\u003E\u003C/div\u003E\n\u003C/div\u003E\u003C/div\u003E\n\n\n\n\u003Ciframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2774.4335312579638!2d15.943165076722718!3d45.94262050139022!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4765dc8684c2086b%3A0xa3f1e2ae259fb386!2sPark%20voza%C4%8Da%20Pila!5e0!3m2!1shr!2shr!4v1768589663355!5m2!1shr!2shr\" width=\"100%\" height=\"300px\" style=\"border:0;\" \nallowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"\u003E\u003C/iframe\u003E\n\n\n\n\u003Cp\u003E\u003C/p\u003E\n",
-      "protected": false
-    },
-    "excerpt": {
-      "rendered": "\u003Cp\u003EPark vozača, Pila Takozvani Zagorski Beverly Hills mjesto je okupljanja auto entuzijasta i dom auto utrka mnogo godina unatrag. Ove sezone Pila će biti i naša glavna adresa.\u003C/p\u003E\n",
-      "protected": false
-    },
-    "author": 4,
-    "featured_media": 0,
-    "comment_status": "open",
-    "ping_status": "open",
-    "sticky": false,
-    "template": "",
-    "format": "standard",
-    "meta": {
-      "_acf_changed": false,
-      "_kad_post_transparent": "",
-      "_kad_post_title": "",
-      "_kad_post_layout": "",
-      "_kad_post_sidebar_id": "",
-      "_kad_post_content_style": "",
-      "_kad_post_vertical_padding": "",
-      "_kad_post_feature": "",
-      "_kad_post_feature_position": "",
-      "_kad_post_header": false,
-      "_kad_post_footer": false,
-      "_kad_post_classname": "",
-      "footnotes": ""
-    },
-    "categories": [1],
-    "tags": [],
-    "class_list": [
-      "post-613",
-      "post",
-      "type-post",
-      "status-publish",
-      "format-standard",
-      "hentry",
-      "category-novosti"
-    ],
-    "acf": [],
-    "_links": {
-      "self": [
-        {
-          "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/posts/613",
-          "targetHints": {
-            "allow": [
-              "GET"
-            ]
-          }
-        }
-      ],
-      "collection": [
-        {
-          "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/posts"
-        }
-      ],
-      "about": [
-        {
-          "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/types/post"
-        }
-      ],
-      "author": [
-        {
-          "embeddable": true,
-          "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/users/4"
-        }
-      ],
-      "replies": [
-        {
-          "embeddable": true,
-          "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/comments?post=613"
-        }
-      ],
-      "version-history": [
-        {
-          "count": 2,
-          "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/posts/613/revisions"
-        }
-      ],
-      "predecessor-version": [
-        {
-          "id": 625,
-          "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/posts/613/revisions/625"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/media?parent=613"
-        }
-      ],
-      "wp:term": [
-        {
-          "taxonomy": "category",
-          "embeddable": true,
-          "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/categories?post=613"
-        },
-        {
-          "taxonomy": "post_tag",
-          "embeddable": true,
-          "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/tags?post=613"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https://api.w.org/{rel}",
-          "templated": true
-        }
-      ]
-    },
-    "_embedded": {
-      "author": [
-        {
-          "id": 4,
-          "name": "Filip Fabijan",
-          "url": "",
-          "description": "",
-          "link": "https://front2.edukacija.online/backend/author/ffabijan/",
-          "slug": "ffabijan",
-          "avatar_urls": {
-            "24": "https://secure.gravatar.com/avatar/f4f1a851dcadef7c27ca952597ac9268e3d4412c4d350e6756e708d5c0806941?s=24&d=mm&r=g",
-            "48": "https://secure.gravatar.com/avatar/f4f1a851dcadef7c27ca952597ac9268e3d4412c4d350e6756e708d5c0806941?s=48&d=mm&r=g",
-            "96": "https://secure.gravatar.com/avatar/f4f1a851dcadef7c27ca952597ac9268e3d4412c4d350e6756e708d5c0806941?s=96&d=mm&r=g"
-          },
-          "acf": [],
-          "_links": {
-            "self": [
-              {
-                "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/users/4",
-                "targetHints": {
-                  "allow": [
-                    "GET"
-                  ]
-                }
-              }
-            ],
-            "collection": [
-              {
-                "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/users"
-              }
-            ]
-          }
-        }
-      ],
-      "wp:term": [
-        [
-          {
-            "id": 1,
-            "link": "https://front2.edukacija.online/backend/category/novosti/",
-            "name": "Novosti",
-            "slug": "novosti",
-            "taxonomy": "category",
-            "acf": [],
-            "_links": {
-              "self": [
-                {
-                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/categories/1",
-                  "targetHints": {
-                    "allow": [
-                      "GET"
-                    ]
-                  }
-                }
-              ],
-              "collection": [
-                {
-                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/categories"
-                }
-              ],
-              "about": [
-                {
-                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/taxonomies/category"
-                }
-              ],
-              "wp:post_type": [
-                {
-                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/posts?categories=1"
                 }
               ],
               "curies": [
@@ -4374,6 +4163,686 @@
               "wp:post_type": [
                 {
                   "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/posts?tags=39"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "id": 390,
+    "date": "2026-01-11T19:49:02",
+    "date_gmt": "2026-01-11T18:49:02",
+    "guid": {
+      "rendered": "https://front2.edukacija.online/backend/?p=390"
+    },
+    "modified": "2026-01-11T19:49:02",
+    "modified_gmt": "2026-01-11T18:49:02",
+    "slug": "recepti-sa-maslinovim-uljem",
+    "status": "publish",
+    "type": "post",
+    "link": "https://front2.edukacija.online/backend/novosti/blog/recepti-sa-maslinovim-uljem/",
+    "title": {
+      "rendered": "Recepti sa maslinovim uljem"
+    },
+    "content": {
+      "rendered": "\n\u003Cp\u003E\u003C/p\u003E\n\n\n\n\u003Cp class=\"is-style-text-subtitle has-x-large-font-size\"\u003ERiba sa maslinovim uljem\u003C/p\u003E\n\n\n\n\u003Cfigure class=\"wp-block-image size-medium\"\u003E\u003Cimg loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"200\" src=\"https://front2.edukacija.online/backend/wp-content/uploads/2026/01/riba-300x200.jpg\" alt=\"Riba sa maslinovim uljem\" class=\"wp-image-395\" srcset=\"https://front2.edukacija.online/backend/wp-content/uploads/2026/01/riba-300x200.jpg 300w, https://front2.edukacija.online/backend/wp-content/uploads/2026/01/riba-768x511.jpg 768w, https://front2.edukacija.online/backend/wp-content/uploads/2026/01/riba.jpg 940w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /\u003E\u003C/figure\u003E\n\n\n\n\u003Cp\u003ESastojci\u003C/p\u003E\n\n\n\n\u003Cp\u003Ebrancin ili arbun, trebat će vam 1 kg ribe za 4 osobe ili pola kile za 2\u003C/p\u003E\n\n\n\n\u003Cp\u003Emaslinovo ulje\u003C/p\u003E\n\n\n\n\u003Cp\u003Eperšin, krasuljica, ružmarin i majčina dušica (pomiješano)\u003C/p\u003E\n\n\n\n\u003Cp\u003E1 list lovora\u003C/p\u003E\n\n\n\n\u003Cp\u003E1 korijen komorača, fino sjeckan\u003C/p\u003E\n\n\n\n\u003Cp\u003E1 do 2&nbsp;prepolovljena limuna\u003C/p\u003E\n\n\n\n\u003Cp\u003EPo porciji\u003C/p\u003E\n\n\n\n\u003Cp\u003E225 kalorija\u003C/p\u003E\n\n\n\n\u003Cp\u003E36,9 g proteina\u003C/p\u003E\n\n\n\n\u003Cp\u003E2,2 g ugljikohidrata\u003C/p\u003E\n\n\n\n\u003Cp\u003E7,6 g masti\u003C/p\u003E\n\n\n\n\u003Cp\u003E1,2 g zasićenih masti\u003C/p\u003E\n\n\n\n\u003Cp\u003E0,7 g vlakna\u003C/p\u003E\n\n\n\n\u003Cp\u003E0,72 g soli\u003C/p\u003E\n\n\n\n\u003Cp\u003EPriprema:\u003C/p\u003E\n\n\n\n\u003Cp\u003EZagrijte pećnicu na 190 stupnjeva (plinska na 5). Ribu isperite,ocijedite i položite u plitku tepsiju – prelijte ju s malo maslinova ulja. Začinskim biljem i komoračem napunite&nbsp;ribu. Dobro začinite i dobro pošpricajte s maslinovim uljem. Tepsiju također prije namažite uljem kako&nbsp;se ne bi zalijepilo.\u003C/p\u003E\n\n\n\n\u003Cp\u003EZagrijte malo maslinovog ulja u tavi i pržite&nbsp;izrezane limune nekoliko&nbsp;minuta licem prema dolje. Prebacite ih u tepsiju i stavite oko ribe. Pecite sve zajedno 20-30 minuta ili dok se riba ne skuha (pogledajte ribu, meso bi trebalo biti neprozirno). Ribu poslužite na velikom ovalu okruženu pečenim limunima.\u003C/p\u003E\n\n\n\n\u003Cp class=\"is-style-text-subtitle\"\u003ESalata od hobotnice za 4 osobe\u003C/p\u003E\n\n\n\n\u003Cfigure class=\"wp-block-image size-medium\"\u003E\u003Cimg loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"199\" src=\"https://front2.edukacija.online/backend/wp-content/uploads/2026/01/hobotnica-300x199.jpg\" alt=\"\" class=\"wp-image-393\" srcset=\"https://front2.edukacija.online/backend/wp-content/uploads/2026/01/hobotnica-300x199.jpg 300w, https://front2.edukacija.online/backend/wp-content/uploads/2026/01/hobotnica-768x510.jpg 768w, https://front2.edukacija.online/backend/wp-content/uploads/2026/01/hobotnica.jpg 940w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /\u003E\u003C/figure\u003E\n\n\n\n\u003Cp\u003EHobotnica&nbsp;je odlična na sve načine, ukoliko je volite. No sigurno se svima barem jednom dogodilo da je meso hobotnice ostalo žilavo, a to tek primijetimo kada je sve već gotovo. Kako vam se to ne bi dogodilo i meso bilo&nbsp;savršeno mekano, hobotnica prije samog spremanja obavezno mora biti &nbsp;smrznuta. Ukoliko se odlučite kupiti svježu hobotnicu, računajte da ju kupite dan ranije, kako bi je stigli smrznuti.\u003Cbr\u003EMali savjet pri kupovini svježe hobotnice:&nbsp;kako znati da li je hobotnica svježa?&nbsp;Mišići tijela joj moraju biti čvrsti i žilavi, kao da je upravo odradila trening krakova, koža joj mora biti vlažna i bez sluzi, a i miris mora se mora osjetiti, budući&nbsp;je nedavno&nbsp;plivala u njemu.\u003C/p\u003E\n\n\n\n\u003Cp\u003EUkoliko ste kupili svježu i neočišćenu hobotnicu, obavezno joj očistite i odstranite&nbsp;utrobu, oči, zube i ogulite vanjsku opnu (ako vam je gadljiva) te dobro isperite pod toplom vodom i obavezno zamrznite.\u003C/p\u003E\n\n\n\n\u003Cp\u003E\u003Cem\u003E4 koraka za savršenu hobotnicu:\u003C/em\u003E\u003C/p\u003E\n\n\n\n\u003Cp\u003Ezamrznite hobotnicu (kako bi s kuhanjem dobili mekano meso)\u003C/p\u003E\n\n\n\n\u003Cp\u003Ekuhajte hobotnicu oko 60 minuta uz pluteni čep ili u express-loncu\u003C/p\u003E\n\n\n\n\u003Cp\u003Eisperite hobotnicu i ostavite da se ohladi\u003C/p\u003E\n\n\n\n\u003Cp\u003Enarežite na kolutiće širine do 1 cm\u003C/p\u003E\n\n\n\n\u003Cp\u003EGlavni sastojci za 4 osobe\u003C/p\u003E\n\n\n\n\u003Cp\u003E1,5&nbsp;kg hobotnice\u003C/p\u003E\n\n\n\n\u003Cp\u003E1 manja glavica luka (sitno narezana)\u003C/p\u003E\n\n\n\n\u003Cp\u003E3 češnja češnjaka (sitno narezana)\u003C/p\u003E\n\n\n\n\u003Cp\u003E2 žlice sjeckanog peršina\u003C/p\u003E\n\n\n\n\u003Cp\u003E4&nbsp;žlica maslinovog ulja\u003C/p\u003E\n\n\n\n\u003Cp\u003E2&nbsp;žlice aceta balsamica\u003C/p\u003E\n\n\n\n\u003Cp\u003E1/2 limuna\u003C/p\u003E\n\n\n\n\u003Cp\u003Esol i papar po ukusu\u003C/p\u003E\n\n\n\n\u003Cp\u003Ekapari\u003C/p\u003E\n\n\n\n\u003Cp\u003Emasline\u003C/p\u003E\n\n\n\n\u003Cp\u003Eparmezan\u003C/p\u003E\n\n\n\n\u003Cp\u003EDodatni sastojci za igranje s raznim kombinacijama salate s hobotnicom:\u003C/p\u003E\n\n\n\n\u003Cp\u003Ekrumpir (narezati na komade i skuhati u posoljenoj vodi)\u003C/p\u003E\n\n\n\n\u003Cp\u003Erikola (svježa)\u003C/p\u003E\n\n\n\n\u003Cp\u003Ematovilac (svjež)\u003C/p\u003E\n\n\n\n\u003Cp\u003Echerry rajčica (svježe narezano)\u003C/p\u003E\n\n\n\n\u003Cp\u003Ejabuka (oguljena i narezana)\u003C/p\u003E\n\n\n\n\u003Cp\u003Emrkva\u003C/p\u003E\n\n\n\n\u003Cp class=\"is-style-text-subtitle\"\u003ESalata od tune i tjestenine\u003C/p\u003E\n\n\n\n\u003Cfigure class=\"wp-block-image size-medium\"\u003E\u003Cimg loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"160\" src=\"https://front2.edukacija.online/backend/wp-content/uploads/2026/01/salata-od-tune-300x160.jpg\" alt=\"\" class=\"wp-image-396\" srcset=\"https://front2.edukacija.online/backend/wp-content/uploads/2026/01/salata-od-tune-300x160.jpg 300w, https://front2.edukacija.online/backend/wp-content/uploads/2026/01/salata-od-tune-768x409.jpg 768w, https://front2.edukacija.online/backend/wp-content/uploads/2026/01/salata-od-tune.jpg 940w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /\u003E\u003C/figure\u003E\n\n\n\n\u003Cp\u003EVolite tunu i tjesteninu? Donosimo vam lagani i osvježavajući recept.\u003C/p\u003E\n\n\n\n\u003Cp\u003ESASTOJCI:\u003C/p\u003E\n\n\n\n\u003Cp\u003E100 g tjestenine ( preporučujemo integralnu)\u003C/p\u003E\n\n\n\n\u003Cp\u003E1 žlica maslinovog ulja\u003C/p\u003E\n\n\n\n\u003Cp\u003E2 male žlice limunovog soka\u003C/p\u003E\n\n\n\n\u003Cp\u003E200 g tune\u003C/p\u003E\n\n\n\n\u003Cp\u003Epo želji kukuruz\u003C/p\u003E\n\n\n\n\u003Cp\u003EPriprema:\u003C/p\u003E\n\n\n\n\u003Cp\u003ESkuhati tjesteninu\u003C/p\u003E\n\n\n\n\u003Cp\u003ETunu dobro ocijediti, zatim razlomiti na manje komadiće\u003C/p\u003E\n\n\n\n\u003Cp\u003EPomiješati maslinove ulje i limunov sok\u003C/p\u003E\n\n\n\n\u003Cp\u003EJogurt za umak\u003C/p\u003E\n\n\n\n\u003Cp\u003EPomiješati skuhanu i ocijeđenu tjesteninu s tunom, kukuruzom i na kraju umiješati umak\u003C/p\u003E\n\n\n\n\u003Cp class=\"is-style-text-subtitle\"\u003EMorski pas s kuhanom blitvom, krumpirom i azuki grahom\u003C/p\u003E\n\n\n\n\u003Cfigure class=\"wp-block-image size-medium\"\u003E\u003Cimg loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"160\" src=\"https://front2.edukacija.online/backend/wp-content/uploads/2026/01/morski-pas-300x160.jpg\" alt=\"\" class=\"wp-image-394\" srcset=\"https://front2.edukacija.online/backend/wp-content/uploads/2026/01/morski-pas-300x160.jpg 300w, https://front2.edukacija.online/backend/wp-content/uploads/2026/01/morski-pas-768x409.jpg 768w, https://front2.edukacija.online/backend/wp-content/uploads/2026/01/morski-pas.jpg 940w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /\u003E\u003C/figure\u003E\n\n\n\n\u003Cp\u003ESASTOJCI OBROKA:\u003C/p\u003E\n\n\n\n\u003Cp\u003Emorski pas na žaru\u003C/p\u003E\n\n\n\n\u003Cp\u003Ekuhana blitva i krumpir\u003C/p\u003E\n\n\n\n\u003Cp\u003Eazuki grah\u003C/p\u003E\n\n\n\n\u003Cp\u003Eribani celer\u003C/p\u003E\n\n\n\n\u003Cp\u003Eklice\u003C/p\u003E\n\n\n\n\u003Cp\u003Esjemenke buče\u003C/p\u003E\n\n\n\n\u003Cp\u003Emaslinovo ulje, sol, češnjak\u003C/p\u003E\n\n\n\n\u003Cp\u003EPRIPREMA:\u003C/p\u003E\n\n\n\n\u003Cp\u003EIspecite file morskog psa na žaru.&nbsp;Meso morskog psa je bogato proteinima, i sadrži jako malo masti.&nbsp;Nutritivno nije snažna namirnica kao neke druge bijele ribe, ali je izuzetno privlačnog okusa, u obliku file-a lagan za pripravu i niže cijene od manjih bijelih riba.\u003C/p\u003E\n\n\n\n\u003Cp\u003EKrumpir&nbsp;ogulite i narežite na kocke te skuhajte.&nbsp;Vilica mora lagano ulaziti, ali pazite da ne prekuhate.\u003C/p\u003E\n\n\n\n\u003Cp\u003EDok je krumpir još al dente dodajte&nbsp;svježu blitvu&nbsp;kojoj ste odrezali stabljiku. Ovako pripremljenu blitvu s krumpirom ocijedite te zalijte s malo&nbsp;maslinova ulja, soli i češnjaka.\u003C/p\u003E\n\n\n\n\u003Cp\u003EAzuki grah&nbsp;je jakog i slatkastog okusa. Prije kuhanja ga treba dobro oprati i ocijediti, a u slučaju da želite poboljšati njegovu probavljivost, namačite ga prije kuhanja nekoliko sati.\u003C/p\u003E\n\n\n\n\u003Cp class=\"is-style-text-subtitle\"\u003EBruschette s posnim sirom i rajčicama\u003C/p\u003E\n\n\n\n\u003Cfigure class=\"wp-block-image size-medium\"\u003E\u003Cimg loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"201\" src=\"https://front2.edukacija.online/backend/wp-content/uploads/2026/01/bruschette-300x201.jpg\" alt=\"Bruscette\" class=\"wp-image-397\" srcset=\"https://front2.edukacija.online/backend/wp-content/uploads/2026/01/bruschette-300x201.jpg 300w, https://front2.edukacija.online/backend/wp-content/uploads/2026/01/bruschette-768x514.jpg 768w, https://front2.edukacija.online/backend/wp-content/uploads/2026/01/bruschette.jpg 940w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /\u003E\u003C/figure\u003E\n\n\n\n\u003Cp\u003EBruschette s posnim sirom (ili zrnatim) i rajčicama&nbsp;su vrlo jednostavan i zdrav recept, za koji vam treba svega par namirnica.&nbsp;\u003C/p\u003E\n\n\n\n\u003Cp\u003ESASTOJCI:\u003C/p\u003E\n\n\n\n\u003Cp\u003Efrancuski kruh tj. francuz (s maslina, integralni ili kukuruzni – sve ovisi o vašem ukusu)\u003Cbr\u003E1 kruh je za otprilike 20 bruchettica\u003C/p\u003E\n\n\n\n\u003Cp\u003Emargarin sa mediteranskim začinima\u003C/p\u003E\n\n\n\n\u003Cp\u003E0.5kg posnog sira ili zrnatog sira\u003C/p\u003E\n\n\n\n\u003Cp\u003E1 kiselo vrhnje\u003C/p\u003E\n\n\n\n\u003Cp\u003Ezačini (vegeta, sol, papar i&nbsp;maslinovo ulje)\u003C/p\u003E\n\n\n\n\u003Cp\u003Ezačin crvene paprike\u003C/p\u003E\n\n\n\n\u003Cp\u003E3 rajčice\u003C/p\u003E\n\n\n\n\u003Cp\u003EBRZINSKO PRIPREMANJE:\u003C/p\u003E\n\n\n\n\u003Cp\u003E1. DIO (kruh)\u003C/p\u003E\n\n\n\n\u003Cp\u003Eugrijte pečnicu na 200*C da se zgrije dok vi ne pripremite sve sastojke\u003C/p\u003E\n\n\n\n\u003Cp\u003Enarežite kruh na šnite po dijagonali debljine 1 cm (nareže pod kutom od 45*)\u003C/p\u003E\n\n\n\n\u003Cp\u003Enamažite margarin sa začinskim biljem na sve&nbsp;šnite\u003C/p\u003E\n\n\n\n\u003Cp\u003Eposložite ploške na rešetke pečnice\u003C/p\u003E\n\n\n\n\u003Cp\u003Epečnica se ugrijala na 200*C, tako da ih pecite 10tak minuta (dok se gornji sloj fino zapeče i rubovi pocrne)\u003C/p\u003E\n\n\n\n\u003Cp\u003E2. DIO (namaz od sira)\u003C/p\u003E\n\n\n\n\u003Cp\u003Epomiješajte posni sir + kiselo vrhnje + malo crvene paprike + sol + papar\u003C/p\u003E\n\n\n\n\u003Cp\u003E3. DIO (začinjene rajčice)\u003C/p\u003E\n\n\n\n\u003Cp\u003Enarežite rajčice na male komadiće (5*5 mm)\u003C/p\u003E\n\n\n\n\u003Cp\u003Edodajte onaj sitni dio vegete i maslinovog ulja, te pomiješajte\u003C/p\u003E\n\n\n\n\u003Cp\u003ESada slijedi onaj najzanimljiviji dio, slaganje bruschetta. Slažite ih ovim redosljedom:&nbsp;namažite sirni namaz na kruh te posložite rajčice na vrh.\u003C/p\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003ERiba sa maslinovim uljem Sastojci brancin ili arbun, trebat će vam 1 kg ribe za 4 osobe ili pola kile za 2 maslinovo ulje peršin, krasuljica, ružmarin i majčina dušica (pomiješano) 1 list lovora 1 korijen komorača, fino sjeckan 1 do 2&nbsp;prepolovljena limuna Po porciji 225 kalorija 36,9 g proteina 2,2 g ugljikohidrata 7,6 g&#8230;\u003C/p\u003E\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 392,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_acf_changed": false,
+      "_kad_post_transparent": "",
+      "_kad_post_title": "",
+      "_kad_post_layout": "",
+      "_kad_post_sidebar_id": "",
+      "_kad_post_content_style": "",
+      "_kad_post_vertical_padding": "",
+      "_kad_post_feature": "",
+      "_kad_post_feature_position": "",
+      "_kad_post_header": false,
+      "_kad_post_footer": false,
+      "_kad_post_classname": "",
+      "footnotes": ""
+    },
+    "categories": [13, 14],
+    "tags": [35, 38, 33, 34, 36, 37],
+    "class_list": [
+      "post-390",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "has-post-thumbnail",
+      "hentry",
+      "category-blog",
+      "category-blogovi",
+      "tag-bruscette",
+      "tag-morski-pas",
+      "tag-recepti-sa-maslinovim-uljem",
+      "tag-riba",
+      "tag-salata",
+      "tag-tuna"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/posts/390",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/comments?post=390"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/posts/390/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 398,
+          "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/posts/390/revisions/398"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/media/392"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/media?parent=390"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/categories?post=390"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/tags?post=390"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "_embedded": {
+      "author": [
+        {
+          "id": 2,
+          "name": "Antonia Majdandžić",
+          "url": "",
+          "description": "",
+          "link": "https://front2.edukacija.online/backend/author/antonia/",
+          "slug": "antonia",
+          "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/1b2420ca66446b54080a9d53a986af0ab4400d07ea9c7ce9f3d64f97a97cb0d2?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/1b2420ca66446b54080a9d53a986af0ab4400d07ea9c7ce9f3d64f97a97cb0d2?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/1b2420ca66446b54080a9d53a986af0ab4400d07ea9c7ce9f3d64f97a97cb0d2?s=96&d=mm&r=g"
+          },
+          "acf": [],
+          "_links": {
+            "self": [
+              {
+                "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/users/2",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/users"
+              }
+            ]
+          }
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "id": 392,
+          "date": "2026-01-11T19:40:45",
+          "slug": "olive-oil-with-herbs",
+          "type": "attachment",
+          "link": "https://front2.edukacija.online/backend/novosti/blog/recepti-sa-maslinovim-uljem/attachment/olive-oil-with-herbs/",
+          "title": {
+            "rendered": "Olive oil with herbs"
+          },
+          "author": 2,
+          "featured_media": 0,
+          "acf": [],
+          "caption": {
+            "rendered": "\u003Cp\u003EOlive oil with fresh herbs on wooden background.\u003C/p\u003E\n"
+          },
+          "alt_text": "Recepti sa maslinovim uljem",
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "media_details": {
+            "width": 1024,
+            "height": 683,
+            "file": "2026/01/blog8a.jpg",
+            "filesize": 221453,
+            "sizes": {
+              "medium": {
+                "file": "blog8a-300x200.jpg",
+                "width": 300,
+                "height": 200,
+                "filesize": 29982,
+                "mime_type": "image/jpeg",
+                "source_url": "https://front2.edukacija.online/backend/wp-content/uploads/2026/01/blog8a-300x200.jpg"
+              },
+              "thumbnail": {
+                "file": "blog8a-150x150.jpg",
+                "width": 150,
+                "height": 150,
+                "filesize": 18399,
+                "mime_type": "image/jpeg",
+                "source_url": "https://front2.edukacija.online/backend/wp-content/uploads/2026/01/blog8a-150x150.jpg"
+              },
+              "medium_large": {
+                "file": "blog8a-768x512.jpg",
+                "width": 768,
+                "height": 512,
+                "filesize": 124850,
+                "mime_type": "image/jpeg",
+                "source_url": "https://front2.edukacija.online/backend/wp-content/uploads/2026/01/blog8a-768x512.jpg"
+              },
+              "full": {
+                "file": "blog8a.jpg",
+                "width": 1024,
+                "height": 683,
+                "mime_type": "image/jpeg",
+                "source_url": "https://front2.edukacija.online/backend/wp-content/uploads/2026/01/blog8a.jpg"
+              }
+            },
+            "image_meta": {
+              "aperture": "11",
+              "credit": "Dusan Zidar",
+              "camera": "NIKON D800",
+              "caption": "Olive oil with fresh herbs on wooden background.",
+              "created_timestamp": "1449139807",
+              "copyright": "Dusan Zidar",
+              "focal_length": "50",
+              "iso": "100",
+              "shutter_speed": "0.005",
+              "title": "Olive oil with herbs",
+              "orientation": "1",
+              "keywords": [
+                "oil",
+                "olive",
+                "virgin",
+                "extra",
+                "pouring",
+                "greek",
+                "gourmet",
+                "close",
+                "food",
+                "flow",
+                "spanish",
+                "italian",
+                "clear",
+                "natural",
+                "dripping",
+                "liquid",
+                "yellow",
+                "healthy",
+                "transparent",
+                "cuisine",
+                "mediterranean",
+                "ingredient",
+                "golden",
+                "cooking",
+                "eating",
+                "dressing",
+                "herbs",
+                "spaces",
+                "olives",
+                "olive fruit",
+                "thyme",
+                "rosemary",
+                "bowl",
+                "dish",
+                "soak"
+              ]
+            }
+          },
+          "source_url": "https://front2.edukacija.online/backend/wp-content/uploads/2026/01/blog8a.jpg",
+          "_links": {
+            "self": [
+              {
+                "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/media/392",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/media"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/types/attachment"
+              }
+            ],
+            "author": [
+              {
+                "embeddable": true,
+                "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/users/2"
+              }
+            ],
+            "replies": [
+              {
+                "embeddable": true,
+                "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/comments?post=392"
+              }
+            ],
+            "wp:attached-to": [
+              {
+                "embeddable": true,
+                "post_type": "post",
+                "id": 390,
+                "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/posts/390"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        }
+      ],
+      "wp:term": [
+        [
+          {
+            "id": 13,
+            "link": "https://front2.edukacija.online/backend/category/novosti/blog/",
+            "name": "BLOG",
+            "slug": "blog",
+            "taxonomy": "category",
+            "acf": [],
+            "_links": {
+              "self": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/categories/13",
+                  "targetHints": {
+                    "allow": [
+                      "GET"
+                    ]
+                  }
+                }
+              ],
+              "collection": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/categories"
+                }
+              ],
+              "about": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/taxonomies/category"
+                }
+              ],
+              "up": [
+                {
+                  "embeddable": true,
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/categories/1"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/posts?categories=13"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 14,
+            "link": "https://front2.edukacija.online/backend/category/blogovi/",
+            "name": "Blogovi",
+            "slug": "blogovi",
+            "taxonomy": "category",
+            "acf": [],
+            "_links": {
+              "self": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/categories/14",
+                  "targetHints": {
+                    "allow": [
+                      "GET"
+                    ]
+                  }
+                }
+              ],
+              "collection": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/categories"
+                }
+              ],
+              "about": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/taxonomies/category"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/posts?categories=14"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          }
+        ],
+        [
+          {
+            "id": 35,
+            "link": "https://front2.edukacija.online/backend/tag/bruscette/",
+            "name": "bruscette",
+            "slug": "bruscette",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/tags/35",
+                  "targetHints": {
+                    "allow": [
+                      "GET"
+                    ]
+                  }
+                }
+              ],
+              "collection": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/posts?tags=35"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 38,
+            "link": "https://front2.edukacija.online/backend/tag/morski-pas/",
+            "name": "morski pas",
+            "slug": "morski-pas",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/tags/38",
+                  "targetHints": {
+                    "allow": [
+                      "GET"
+                    ]
+                  }
+                }
+              ],
+              "collection": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/posts?tags=38"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 33,
+            "link": "https://front2.edukacija.online/backend/tag/recepti-sa-maslinovim-uljem/",
+            "name": "recepti sa maslinovim uljem",
+            "slug": "recepti-sa-maslinovim-uljem",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/tags/33",
+                  "targetHints": {
+                    "allow": [
+                      "GET"
+                    ]
+                  }
+                }
+              ],
+              "collection": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/posts?tags=33"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 34,
+            "link": "https://front2.edukacija.online/backend/tag/riba/",
+            "name": "riba",
+            "slug": "riba",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/tags/34",
+                  "targetHints": {
+                    "allow": [
+                      "GET"
+                    ]
+                  }
+                }
+              ],
+              "collection": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/posts?tags=34"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 36,
+            "link": "https://front2.edukacija.online/backend/tag/salata/",
+            "name": "salata",
+            "slug": "salata",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/tags/36",
+                  "targetHints": {
+                    "allow": [
+                      "GET"
+                    ]
+                  }
+                }
+              ],
+              "collection": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/posts?tags=36"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https://api.w.org/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          },
+          {
+            "id": 37,
+            "link": "https://front2.edukacija.online/backend/tag/tuna/",
+            "name": "tuna",
+            "slug": "tuna",
+            "taxonomy": "post_tag",
+            "_links": {
+              "self": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/tags/37",
+                  "targetHints": {
+                    "allow": [
+                      "GET"
+                    ]
+                  }
+                }
+              ],
+              "collection": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/tags"
+                }
+              ],
+              "about": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/taxonomies/post_tag"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "https://front2.edukacija.online/backend/wp-json/wp/v2/posts?tags=37"
                 }
               ],
               "curies": [
