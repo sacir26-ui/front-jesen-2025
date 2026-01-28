@@ -44,6 +44,11 @@ const Nav = () => {
                 </Link>
               </li>
               <li className="nav-item">
+                <Link className="nav-link text-end" to="/kategorije">
+                  Kategorije
+                </Link>
+              </li>
+              <li className="nav-item">
                 <Link className="nav-link text-end" to="/kontakt">
                   Kontakt
                 </Link>
