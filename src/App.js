@@ -10,6 +10,7 @@ import BlogSingle from './pages/BlogSingle';
 import Onama from "./pages/Onama";
 import Usluge from "./pages/Usluge";
 import Kontakt from "./pages/Kontakt";
+import Lokali from "./pages/Lokali";
 
 import Profil from "./components/zadaci/Profil";
 import Korisnici from "./components/zadaci/Korisnici";
@@ -29,6 +30,9 @@ function App() {
         <Route path="/usluge" element={<Usluge />} />
         <Route path="/kontakt" element={<Kontakt />} />
         <Route path="/kategorije" element={<Kategorije />} />
+
+
+        <Route path="/lokali" element={<Lokali />} />
 
 
         <Route path="/profil" element={<Profil />} />
