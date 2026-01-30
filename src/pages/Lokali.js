@@ -11,7 +11,7 @@ const Lokali = () => {
   useEffect(() => {
     setLoading(true);
 
-    fetch("https://front2.edukacija.online/backend/wp-json/wp/v2/lokali?_embed")
+    fetch("https://front2.edukacija.online/backend/wp-json/wp/v2/lokal?_embed")
       .then((response) => response.json())
       .then((data) => {
         setPosts(data);
@@ -34,14 +34,17 @@ const Lokali = () => {
               return (
                 <div key={post.id} className="col-md-4 mb-4 blog-post">
                   {image && (
+                    <Link to={'/lokal/' + post.slug}>
                     <img
                       src={image}
                       className="mb-3"
                       alt={post.title.rendered}
                     />
-                  )}
-
-                  <h2>{post.title.rendered}</h2>
+                    </Link>
+                   )}
+                  <Link to={'/lokal/' + post.slug}>   
+                    <h2>{post.title.rendered}</h2>
+                  </Link>
 
                   <div
                     dangerouslySetInnerHTML={{ __html: post.excerpt.rendered }}

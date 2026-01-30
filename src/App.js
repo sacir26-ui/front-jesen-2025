@@ -11,6 +11,7 @@ import Onama from "./pages/Onama";
 import Usluge from "./pages/Usluge";
 import Kontakt from "./pages/Kontakt";
 import Lokali from "./pages/Lokali";
+import LokaliSingle from "./pages/LokaliSingle";
 
 import Profil from "./components/zadaci/Profil";
 import Korisnici from "./components/zadaci/Korisnici";
@@ -33,6 +34,7 @@ function App() {
 
 
         <Route path="/lokali" element={<Lokali />} />
+        <Route path="/lokal/:slug" element={<LokaliSingle />} />
 
 
         <Route path="/profil" element={<Profil />} />
