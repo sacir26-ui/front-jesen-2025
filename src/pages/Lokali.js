@@ -8,16 +8,28 @@ const Lokali = () => {
   const [loading, setLoading] = useState(false);
   const [page, setPage] = useState(1);
 
+  const [djelatnosti, setDjelatnosti] = useState([]);
+  const [izabranaDjelatnost, setIzabranaDjelatnost] = useState("");
+
+  useEffect(() => {
+    fetch("https://front2.edukacija.online/backend/wp-json/wp/v2/djelatnost")
+      .then((response) => response.json())
+      .then((data) => setDjelatnosti(data));
+  }, []);
+
   useEffect(() => {
     setLoading(true);
 
-    fetch("https://front2.edukacija.online/backend/wp-json/wp/v2/lokal?_embed")
+    let url = "https://front2.edukacija.online/backend/wp-json/wp/v2/lokal?_embed";
+    if (izabranaDjelatnost) url += "&djelatnost=" + izabranaDjelatnost;
+
+    fetch(url)
       .then((response) => response.json())
       .then((data) => {
         setPosts(data);
       })
       .finally(() => setLoading(false));
-  }, []);
+  }, [izabranaDjelatnost]);
 
   return (
     <>
@@ -25,6 +37,16 @@ const Lokali = () => {
       <div className="blog-page">
         <div className="container">
           <h1>Lokali</h1>
+          <div className="row mb-4">
+            <div className="col-6">
+              <select className="form-select" value={izabranaDjelatnost} onChange={(e) => setIzabranaDjelatnost(e.target.value)}>
+                <option value="">Sve djelatnosti</option>
+                {djelatnosti.map((djelatnost) => (
+                  <option key={djelatnost.id} value={djelatnost.id}>{djelatnost.name}</option>
+                ))}
+              </select>
+            </div>
+          </div>
           <div className="row">
             {posts.map((post) => {
               const image =
