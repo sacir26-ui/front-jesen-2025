@@ -1,3 +1,6 @@
+import { useRef, useState } from 'react';
+import emailjs from '@emailjs/browser';
+
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLocationDot, faPhone } from "@fortawesome/free-solid-svg-icons";
 import { faEnvelope } from "@fortawesome/free-regular-svg-icons";
@@ -9,6 +12,27 @@ import {
 } from "@fortawesome/free-brands-svg-icons";
 
 const Kontakt = () => {
+  const form = useRef();
+  const [isSent, setIsSent] = useState(false);
+
+  const sendEmail = (e) => {
+    e.preventDefault();
+
+    emailjs
+      .sendForm("service_ywfs7ov", "template_u6rhlqt", form.current, {
+        publicKey: "sWmVBMsNRnZsk1ijB",
+      })
+      .then(
+        () => {
+          console.log("SUCCESS!");
+          setIsSent(true);
+        },
+        (error) => {
+          console.log("FAILED...", error.text);
+        },
+      );
+  };
+
   return (
     <>
       <section id="contact">
@@ -52,18 +76,30 @@ const Kontakt = () => {
                 </a>
               </div>
             </div>
+
             <div className="col-md-8 contact-right">
               <div className="d-flex flex-column contact-inputs">
-                <label htmlFor="name">First name</label>
-                <input type="text" />
-                <label htmlFor="email">Email</label>
-                <input type="email" />
-                <label htmlFor="message">Message</label>
-                <textarea rows={1}></textarea>
+                <form
+                  ref={form}
+                  onSubmit={sendEmail}
+                  className="d-flex flex-column"
+                >
+                  <label>Name</label>
+                  <input type="text" name="user_name" className="inputform" />
+                  <label>Email</label>
+                  <input type="email" name="user_email" className="inputform" />
+                  <label>Message</label>
+                  <textarea rows={2} name="message" className="inputform" />
+                  <button
+                    type="submit"
+                    value="Send"
+                    className="contact-button mt-5"
+                    disabled={isSent}
+                  >
+                   {isSent ? "Message Sent" : "Send Message"}
+                  </button>
+                </form>
               </div>
-              <button className="contact-button">
-                Send Message
-              </button>
             </div>
           </div>
         </div>
