@@ -1,7 +1,14 @@
-import { Link } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 
 
 const Nav = () => {
+
+  const location = useLocation();
+
+  if(location.pathname === "/signin") {
+    return;
+  }
+  
   return (
      <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <div className="container">
@@ -62,18 +69,18 @@ const Nav = () => {
 
             <ul className="navbar-nav ms-auto align-items-center">
               <li className="nav-item">
-                <a className="nav-link" href="/signin" title="Sign in">
+                <Link className="nav-link" to="/signin" title="Sign in">
                   <img
                     src="img/header/user.svg"
                     alt="Sign in"
                     className="icon-sm"
                   />
-                </a>
+                </Link>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/cart" title="Cart">
+                <Link className="nav-link" href="/cart" title="Cart">
                   <img src="img/header/cart.svg" alt="Cart" className="icon-lg" />
-                </a>
+                </Link>
               </li>
             </ul>
           </div>

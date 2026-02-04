@@ -17,6 +17,7 @@ import Profil from "./components/zadaci/Profil";
 import Korisnici from "./components/zadaci/Korisnici";
 import Tecaj from "./components/zadaci/Tecaj";
 import Kategorije from "./pages/Kategorije";
+import SignIn from "./pages/SignIn";
 
 
 
@@ -39,6 +40,9 @@ function App() {
         <Route path="/profil" element={<Profil />} />
         <Route path="/korisnici" element={<Korisnici />} />
         <Route path="/tecaj" element={<Tecaj />} />
+
+        <Route path="/signin" element={<SignIn />} />
+
 
 
       </Routes>
