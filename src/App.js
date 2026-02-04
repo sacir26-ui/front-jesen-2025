@@ -19,6 +19,7 @@ import Tecaj from "./components/zadaci/Tecaj";
 import Kategorije from "./pages/Kategorije";
 
 
+
 function App() {
   return (
     <BrowserRouter>
@@ -38,6 +39,7 @@ function App() {
         <Route path="/profil" element={<Profil />} />
         <Route path="/korisnici" element={<Korisnici />} />
         <Route path="/tecaj" element={<Tecaj />} />
+
 
       </Routes>
       <Footer />

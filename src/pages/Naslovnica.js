@@ -1,9 +1,7 @@
 
-
 const Naslovnica = () => {
   return (
     <>
-
       <section className="hero d-flex align-items-center text-white mb-5">
         <div className="container">
           <span className="text-uppercase">Veloretti Business</span>
